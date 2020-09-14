@@ -1,6 +1,7 @@
 # senraise
 
-Senraise device with build in printer plugin. Tested with MUNBYN IPDA064 device.
+Flutter wrapper for Senraise PrintService installed on device with build in printer plugin.
+Tested with MUNBYN IPDA064 device.
 This is cheap chinese Android POS device that comes with built in PrinterService.
 Printer itself is available like any external printer and you can send ESC/POS commands
 to it like you would for any normal POS Printer.
