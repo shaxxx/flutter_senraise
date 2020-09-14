@@ -1,6 +1,6 @@
 name: senraise
-description: A new flutter plugin project.
-version: 0.0.1
+description: Flutter wrapper for Senraise PrintService
+version: 0.0.2
 homepage: https://github.com/shaxxx/flutter_senraise
 
 environment:
